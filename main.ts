@@ -42,3 +42,4 @@ info.changeScoreBy(1)
 luffy.setPosition(randint(0, 160), randint(0, 120))
 info.startCountdown(10)
 })
+//
